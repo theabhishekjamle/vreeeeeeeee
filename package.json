@@ -1,0 +1,37 @@
+{
+  "name": "virendra-parmar-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "framer-motion": "^12.9.4",
+    "gsap": "^3.12.5",
+    "react-intersection-observer": "^9.10.3",
+    "react-scroll-parallax": "^3.4.5",
+    "react-icons": "^5.2.1",
+    "react-type-animation": "^3.2.0",
+    "lenis": "^1.1.9",
+    "@studio-freight/lenis": "^1.0.42",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5",
+    "tailwindcss": "^3.4.3",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "eslint": "^8",
+    "eslint-config-next": "^15.3.1"
+  }
+}
